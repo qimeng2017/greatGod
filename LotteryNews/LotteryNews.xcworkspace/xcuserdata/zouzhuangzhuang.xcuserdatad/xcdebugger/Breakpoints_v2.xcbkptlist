@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LotteryNews/Triolion/TriolionViewController.m"
+            timestampString = "511871010.069132"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "232"
+            endingLineNumber = "232"
+            landmarkName = "-loadData:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LotteryNews/Triolion/TriolionViewController.m"
+            timestampString = "511842296.331702"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "-configUI"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LotteryNews/Triolion/TriolionViewController.m"
+            timestampString = "511871010.069132"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "184"
+            endingLineNumber = "184"
+            landmarkName = "-loadNewData"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LotteryNews/Triolion/TriolionViewController.m"
+            timestampString = "511871010.069132"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "238"
+            endingLineNumber = "238"
+            landmarkName = "-loadData:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__35-[TriolionViewController loadData:]_block_invoke"
+                  moduleName = "LotteryNews"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zouzhuangzhuang/%E5%BD%A9%E5%A4%A7%E5%B8%88%E4%B8%93%E4%B8%9A%E7%89%88%E7%9A%84%E5%89%AF%E6%9C%AC/LotteryNews/LotteryNews/Triolion/TriolionViewController.m"
+                  timestampString = "511755168.26723"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "223"
+                  endingLineNumber = "223"
+                  offsetFromSymbolStart = "2012">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__35-[TriolionViewController loadData:]_block_invoke_2"
+                  moduleName = "LotteryNews"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zouzhuangzhuang/%E5%BD%A9%E5%A4%A7%E5%B8%88%E4%B8%93%E4%B8%9A%E7%89%88%E7%9A%84%E5%89%AF%E6%9C%AC/LotteryNews/LotteryNews/Triolion/TriolionViewController.m"
+                  timestampString = "511755168.269168"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "223"
+                  endingLineNumber = "223"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LotteryNews/Triolion/TriolionViewController.m"
+            timestampString = "511871010.069132"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "290"
+            endingLineNumber = "290"
+            landmarkName = "-rankList"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__34-[TriolionViewController rankList]_block_invoke"
+                  moduleName = "LotteryNews"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zouzhuangzhuang/%E5%BD%A9%E5%A4%A7%E5%B8%88%E4%B8%93%E4%B8%9A%E7%89%88%E7%9A%84%E5%89%AF%E6%9C%AC/LotteryNews/LotteryNews/Triolion/TriolionViewController.m"
+                  timestampString = "511755168.272692"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "276"
+                  endingLineNumber = "276"
+                  offsetFromSymbolStart = "1084">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__copy_helper_block_.252"
+                  moduleName = "LotteryNews"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zouzhuangzhuang/%E5%BD%A9%E5%A4%A7%E5%B8%88%E4%B8%93%E4%B8%9A%E7%89%88%E7%9A%84%E5%89%AF%E6%9C%AC/LotteryNews/LotteryNews/Triolion/TriolionViewController.m"
+                  timestampString = "511755168.274208"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "276"
+                  endingLineNumber = "276"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_.253"
+                  moduleName = "LotteryNews"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zouzhuangzhuang/%E5%BD%A9%E5%A4%A7%E5%B8%88%E4%B8%93%E4%B8%9A%E7%89%88%E7%9A%84%E5%89%AF%E6%9C%AC/LotteryNews/LotteryNews/Triolion/TriolionViewController.m"
+                  timestampString = "511755168.275695"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "276"
+                  endingLineNumber = "276"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__34-[TriolionViewController rankList]_block_invoke.255"
+                  moduleName = "LotteryNews"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zouzhuangzhuang/%E5%BD%A9%E5%A4%A7%E5%B8%88%E4%B8%93%E4%B8%9A%E7%89%88%E7%9A%84%E5%89%AF%E6%9C%AC/LotteryNews/LotteryNews/Triolion/TriolionViewController.m"
+                  timestampString = "511755168.277139"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "278"
+                  endingLineNumber = "278"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LotteryNews/Triolion/TriolionViewController.m"
+            timestampString = "511871010.069132"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "315"
+            endingLineNumber = "315"
+            landmarkName = "-tableView:numberOfRowsInSection:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LotteryNews/Triolion/TriolionViewController.m"
+            timestampString = "511871010.069132"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "219"
+            endingLineNumber = "219"
+            landmarkName = "-loadData:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LotteryNews/Other/Util/UserStore.m"
+            timestampString = "511862714.915802"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "283"
+            endingLineNumber = "283"
+            landmarkName = "-requestPlayTypeDefult"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LotteryNews/Other/Viewcontoller/BasicViewController.m"
+            timestampString = "511950897.344721"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "191"
+            endingLineNumber = "191"
+            landmarkName = "-checkUpdate"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LotteryNews/Other/Util/UserStore.m"
+            timestampString = "511954066.341578"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "433"
+            endingLineNumber = "433"
+            landmarkName = "-checkReviewTheStatus"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
